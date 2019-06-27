@@ -7,9 +7,7 @@
 
 4. MNIST: Trained an MLP to classify images in the MNIST dataset.
 
-5. Spam_Classification: Implemented Naive Bayes algorithm to create a model that can classify SMS messages as spam or not spam. Investigated several features which are very common in spam messages. Model is trained on 'smsspamcollection' dataset from UCI's Machine Learning Datasets repository.
+5. Predicting_Student_Admission: Implemented model to predict whether a student would get admission or not based on three parameters: 1. GRE Score, 2. GPA Score and 3. Class Rank.
 
-6. Predicting_Student_Admission: Implemented model to predict whether a student would get admission or not based on three parameters: 1. GRE Score, 2. GPA Score and 3. Class Rank.
-
-7. Boston Housing prediction: Evaluated the performance and predictive power of a model that has been trained and tested on data collected from homes in suburbs of Boston, Massachusetts. A model trained on this data that is seen as a good fit could then be used to make certain predictions about a home — in particular, its monetary value. This model would prove to be helpful for someone like a real estate agent who could make use of such information.
+6. Boston Housing prediction: Evaluated the performance and predictive power of a model that has been trained and tested on data collected from homes in suburbs of Boston, Massachusetts. A model trained on this data that is seen as a good fit could then be used to make certain predictions about a home — in particular, its monetary value. This model would prove to be helpful for someone like a real estate agent who could make use of such information.
 
